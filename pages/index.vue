@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-my-purple w-screen h-screen flex flex-col justify-start items-center sm:pt-10">
+    <div class="w-screen flex flex-col justify-start items-center sm:mb-20 sm:pt-10">
         <Logo/>
         <Login/>
     </div>
@@ -9,10 +9,8 @@
     export default {}
 </script>
 
-<style scoped>
-/* .index{
-    background-color: #7042e7;
-    width: 100vw;
-    height: 100vh;
-} */
+<style>
+body{
+    background: #7042e7;
+}
 </style>
