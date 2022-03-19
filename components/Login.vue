@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-white sm:w-container-login sm:h-fit sm:rounded-xl mt-20 w-full">
-        <div class="h-80 bg-center bg-cover sm:rounded-t-xl bg-hero-login"></div>
+    <div class="bg-white sm:w-container-login sm:h-fit sm:rounded-xl mt-8 sm:mt-20 w-full">
+        <div class="h-80 sm:block hidden bg-center bg-cover sm:rounded-t-xl bg-hero-login"></div>
         <div class="sm:px-16 px-5">
         <h1 class="text-center pt-8 text-4xl sm:text-6xl font-source-serif-pro">Sign in</h1>
         <form class="flex flex-col">
